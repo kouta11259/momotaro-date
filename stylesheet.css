@@ -12,10 +12,10 @@ a {
   text-decoration: none;
 }
 
-.coming-soon {
-  text-align: center;
+.header-middle h4{
   color: white;
-  font-size 18px;
+  text-align: center;
+  font-size: 15px;
 }
 
 .container {
@@ -31,13 +31,23 @@ a {
 }
 
 
-.top-wrapper h1 {
+.top-wrapper h4 {
   opacity: 0.7;
-  font-size: 45px;
+  font-size: 40px;
   letter-spacing: 1px;
   text-align: left;
-  color: pink;
+  color: white;
+  margin-top: 20px;
 }
+
+.top-wrapper h3 {
+  opacity: 0.7;
+  font-size: 30px;
+  letter-spacing: 1px;
+  text-align: left;
+  color: white;
+}
+
 
 .header-left {
   color: white;
@@ -149,6 +159,27 @@ footer {
 
 .clear {
   clear: left;
+}
+
+table{
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 100%;
+}
+
+table tr{
+  border-bottom: solid 1px #eee;
+  cursor: pointer;
+}
+
+table tr:hover{
+  background-color: #d4f0fd;
+}
+
+table th,table td{
+  text-align: center;
+  width: 25%;
+  padding: 15px 0;
 }
 
 @media all and (max-width: 1000px) {
