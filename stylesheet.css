@@ -157,6 +157,28 @@ footer {
   clear: left;
 }
 
+table{
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 100%;
+}
+
+table tr{
+  border-bottom: solid 1px #eee;
+  cursor: pointer;
+}
+
+table tr:hover{
+  background-color: #d4f0fd;
+}
+
+table th,table td{
+  text-align: center;
+  width: 25%;
+  padding: 15px 0;
+}
+
+
 @media all and (max-width: 1000px) {
   .lesson {
     width: 50%;
