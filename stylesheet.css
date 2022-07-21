@@ -12,11 +12,6 @@ a {
   text-decoration: none;
 }
 
-.coming-soon {
-  text-align: center;
-  color: white;
-}
-
 .container {
   width: 100%;
   padding: 0 15px;
@@ -55,7 +50,7 @@ a {
 
 .header-left {
   color: white;
-  float: left;
+  float: center;
   margin-right: -25px;
 }
   
