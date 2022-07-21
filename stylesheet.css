@@ -169,7 +169,7 @@ table tr{
 }
 
 table tr:hover{
-  background-color: #d4f0fd;
+  background-color: #000000;
 }
 
 table th,table td{
