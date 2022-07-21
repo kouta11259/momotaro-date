@@ -23,6 +23,7 @@ a {
   padding: 0 15px;
   margin: 0 auto;
   text-align: left;
+  color: white;
 }
 
 .top-image {
@@ -154,7 +155,7 @@ footer {
 table{
   border-collapse: collapse;
   border-spacing: 0;
-  width: 100%;
+  width: 75%;
 }
 
 table tr{
