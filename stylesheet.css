@@ -26,9 +26,8 @@ a {
   color: white;
 }
 
-.top-image {
-  text-align: center;
-  width: 15px;
+.top-wrapper {
+  color: white;
 }
 
 
@@ -171,6 +170,7 @@ table th,table td{
   text-align: center;
   width: 25%;
   padding: 15px 0;
+  margin 0 auto;
 }
 
 @media all and (max-width: 1000px) {
