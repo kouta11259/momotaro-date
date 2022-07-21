@@ -31,7 +31,6 @@ a {
   letter-spacing: 1px;
   text-align: left;
   color: white;
-  margin: 0 auto;
 }
 
 .container h4 {
@@ -66,7 +65,7 @@ a {
 .top-wrapper p {
   opacity: 0.7;
   font-size: 15px;
-  margin-bottom: 30px;
+  margin-bottom: 80px;
   text-align: left;
   color: white;
 }
