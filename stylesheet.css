@@ -34,7 +34,7 @@ a {
   margin: 0 auto;
 }
 
-.top-wrapper h4 {
+.container2 h4 {
   font-size: 30px;
   letter-spacing: 1px;
   text-align: left;
@@ -42,14 +42,14 @@ a {
   margin-top: 30px;
 }
 
-.container h4 {
+.header-middle h4 {
   font-size: 15px;
   letter-spacing: 1px;
   text-align: center;
   color: white;
 }
 
-.top-wrapper h3 {
+.container2 h3 {
   font-size: 20px;
   letter-spacing: 1px;
   text-align: left;
