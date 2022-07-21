@@ -38,6 +38,13 @@ a {
   color: pink;
 }
 
+.top-wrapper h3 {
+  font-size: 30px;
+  letter-spacing: 1px;
+  text-align: left;
+  color: white;
+}
+
 .header-left {
   color: white;
   float: left;
