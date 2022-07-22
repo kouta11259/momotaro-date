@@ -158,6 +158,7 @@ table{
   width: 85%;
   margin-left: auto;
   margin-right: auto;
+  font-size: 85%;
 }
 
 .table tr:nth-child(7) {
