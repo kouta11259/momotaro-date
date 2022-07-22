@@ -160,6 +160,14 @@ table{
   margin-right: auto;
 }
 
+.table tr:nth-child(7) {
+  background-color: yellow;
+}
+
+.table tr:nth-child(7) td {
+  color: white;
+}
+
 table tr{
   border-bottom: solid 1px #eee;
   cursor: pointer;
